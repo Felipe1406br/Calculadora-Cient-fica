@@ -1,4 +1,6 @@
 # 🧮 Calculadora Científica em Python
+## 📸 Screenshot
+![Calculadora Rodando](print.png)
 
 Projeto desenvolvido para praticar lógica de programação com Python (Tkinter) e versionamento de código com Git/GitHub.
 
